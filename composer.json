@@ -1,0 +1,14 @@
+{
+    "name": "jaume/ventas-composer",
+    "description": "API de ventas con datos de faker",
+    "type": "API laravel project",
+    "license": "none",
+    "authors": [
+        {
+            "name": "jaumetriay",
+            "email": "jaumetriay97@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
