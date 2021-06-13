@@ -1,7 +1,7 @@
 {
     "name": "jaume/ventas-composer",
     "description": "API de ventas con datos de faker",
-    "type": "API laravel project",
+    "type": "API_laravel_project",
     "license": "none",
     "authors": [
         {
